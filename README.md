@@ -1,5 +1,7 @@
+<p style="text-align: center"><img src="./Assets/todo.png"/></p>
 
 # C# ToDo List Project
+
 
 ## Project Overview
 Welcome to the C# ToDo List project! This application is currently under development, and the following features are planned to be implemented:
